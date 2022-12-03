@@ -1,10 +1,12 @@
 tap "homebrew/bundle"
+tap "homebrew/cask"
 tap "homebrew/core"
 brew "cask"
 brew "fish"
 brew "git"
 brew "mas"
 brew "nmap"
+brew "vim"
 
 cask "cmd-eikana"
 cask "air-video-server-hd"
@@ -15,6 +17,8 @@ cask "aws-vpn-client"
 cask "clickup"
 cask "clipy"
 cask "cyberduck"
+cask "deepl"
+cask "docker"
 cask "discord"
 cask "dropbox"
 cask "expressvpn"
@@ -41,6 +45,7 @@ cask "transmission"
 cask "virtualbox"
 cask "vlc"
 cask "whatsapp"
+cask "warp"
 cask "zoom"
 
 mas "Adobe Lightroom", id: 1451544217
@@ -62,9 +67,8 @@ mas "Microsoft Outlook", id: 985367838
 mas "Microsoft PowerPoint", id: 462062816
 mas "Microsoft Word", id: 462054704
 mas "Numbers", id: 409203825
-mas "OneDrive", id: 823766827
 mas "Pages", id: 409201541
-mas "Spark", id: 1176895641te
+mas "Spark", id: 1176895641
 mas "TeRa", id: 1243347809
 mas "The Unarchiver", id: 425424353
 mas "Twitter", id: 1482454543
