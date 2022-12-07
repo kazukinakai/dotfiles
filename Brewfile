@@ -71,4 +71,3 @@ mas "TeRa", id: 1243347809
 mas "The Unarchiver", id: 425424353
 mas "Twitter", id: 1482454543
 mas "WeChat", id: 836500024
-mas "WinArchiver Lite", id: 414855915
