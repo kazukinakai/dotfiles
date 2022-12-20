@@ -28,7 +28,6 @@ cask "font-myrica"
 cask "font-myricam"
 cask "google-chrome"
 cask "google-japanese-ime"
-cask "grammarly-desktop"
 cask "handbrake"
 cask "iina"
 cask "lastpass"
@@ -69,6 +68,7 @@ mas "GarageBand", id: 682658836
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
 mas "Kindle", id: 405399194
+mas "LINE", id: 539883307
 mas "Microsoft Excel", id: 462058435
 mas "Microsoft OneNote", id: 784801555
 mas "Microsoft Outlook", id: 985367838
@@ -76,6 +76,7 @@ mas "Microsoft PowerPoint", id: 462062816
 mas "Microsoft Word", id: 462054704
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
+mas "Spark", id: 1176895641
 mas "TeRa", id: 1243347809
 mas "The Unarchiver", id: 425424353
 mas "Twitter", id: 1482454543
